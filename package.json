@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/math-base-special-fast-atanh",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Compute the hyperbolic arctangent of a number.",
   "license": "Apache-2.0",
   "author": {
