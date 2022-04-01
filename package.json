@@ -1,0 +1,40 @@
+{
+  "name": "@stdlib/math-base-special-fast-atanh",
+  "version": "0.0.0",
+  "description": "Compute the hyperbolic arctangent of a number.",
+  "license": "Apache-2.0",
+  "type": "module",
+  "main": "./mod.js",
+  "homepage": "https://stdlib.io",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/stdlib-js/math-base-special-fast-atanh.git"
+  },
+  "bugs": {
+    "url": "https://github.com/stdlib-js/stdlib/issues"
+  },
+  "keywords": [
+    "stdlib",
+    "stdfastmath",
+    "mathematics",
+    "math",
+    "fastmath",
+    "fast",
+    "math.atanh",
+    "atanh",
+    "hyperbolic",
+    "inverse",
+    "tangent",
+    "tan",
+    "trig",
+    "trigonometry",
+    "radians",
+    "angle",
+    "polyfill",
+    "ponyfill"
+  ],
+  "funding": {
+    "type": "patreon",
+    "url": "https://www.patreon.com/athan"
+  }
+}
