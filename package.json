@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/math-base-special-fast-atanh",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "description": "Compute the hyperbolic arctangent of a number.",
   "license": "Apache-2.0",
   "author": {
@@ -37,9 +37,9 @@
     "url": "https://github.com/stdlib-js/stdlib/issues"
   },
   "dependencies": {
-    "@stdlib/math-base-assert-is-infinite": "^0.1.1",
-    "@stdlib/math-base-assert-is-nan": "^0.1.1",
-    "@stdlib/math-base-special-ln": "^0.1.1"
+    "@stdlib/math-base-assert-is-infinite": "^0.2.0",
+    "@stdlib/math-base-assert-is-nan": "^0.2.0",
+    "@stdlib/math-base-special-ln": "^0.2.0"
   },
   "devDependencies": {
     "@stdlib/array-base-linspace": "^0.1.0",
