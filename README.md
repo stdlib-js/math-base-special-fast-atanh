@@ -42,6 +42,11 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import atanh from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-fast-atanh@esm/index.mjs';
+```
+The previous example will load the latest bundled code from the esm branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/math-base-special-fast-atanh/tags). For example,
+
+```javascript
 import atanh from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-fast-atanh@v0.3.0-esm/index.mjs';
 ```
 
@@ -109,7 +114,7 @@ var v = atanh( -3.14 );
 <script type="module">
 
 import linspace from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-linspace@esm/index.mjs';
-import atanh from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-fast-atanh@v0.3.0-esm/index.mjs';
+import atanh from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-fast-atanh@esm/index.mjs';
 
 var x = linspace( -1.0, 1.0, 103 );
 
