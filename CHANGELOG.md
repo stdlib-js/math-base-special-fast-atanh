@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`0283c27`](https://github.com/stdlib-js/stdlib/commit/0283c27a0c7795f636dddb096ed5d59e1597b0ad) - **bench:** update random value generation [(#6649)](https://github.com/stdlib-js/stdlib/pull/6649) _(by Harsh)_
 -   [`5982554`](https://github.com/stdlib-js/stdlib/commit/59825542a6f81a71eb16ce2007aac9c12f351938) - **docs:** replace manual `for` loop in examples [(#6644)](https://github.com/stdlib-js/stdlib/pull/6644) _(by Harsh)_
 -   [`a1e230f`](https://github.com/stdlib-js/stdlib/commit/a1e230f29297caa89880e9c194c615a0400fb7bc) - **chore:** clean up cppcheck-suppress comments _(by Karan Anand)_
 -   [`2777e4b`](https://github.com/stdlib-js/stdlib/commit/2777e4be161869d09406e3b17947d24c64b47af2) - **bench:** resolve lint errors in benchmarks _(by Athan Reines)_
